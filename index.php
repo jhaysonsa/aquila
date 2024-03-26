@@ -10,6 +10,6 @@ get_header();
 ?>
 
     <div class="content"> 
-        content
+        Content
     </div>
- <?php get_footer();?>
+ <?php get_footer(); ?>
